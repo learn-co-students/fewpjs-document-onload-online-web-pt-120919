@@ -110,7 +110,7 @@ This functions in a similar way to `DOMContentLoaded` - the JavaScript code
 stored in `index.js` will be loaded up but won't execute until the HTML page
 completely loads.
 
-## Resources
+## Resource Links
 
 [DOMContentLoaded](https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded)
 [Running Your Code at the Right Time](https://www.kirupa.com/html5/running_your_code_at_the_right_time.htm)
